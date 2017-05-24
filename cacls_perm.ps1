@@ -1,4 +1,4 @@
-#calcs_perm.ps1
+#cacls_perm.ps1
 
 #starting path
 $StartDir="folder_path" 
